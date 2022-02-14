@@ -1,0 +1,18 @@
+item,trial type,max time,text,Shuffle 1,survey,
+0,survey,,,off,aa_info.csv,
+0,survey,,,off,aa_consent.csv,
+0,survey,,,off,aa_demo.csv,
+0,instruct,user,"<span style=""font-size:20px""><b><span style=""font-size:20px""><b>You will see an image on the screen. The image will stay on the screen only for a brief duration. After that there will be a wait for nearly 6 seconds.</span></b><br>
+<span style=""font-size:20px""><b>During this time, you can either look at the blank screen or look at the same image again by pressing the space bar.</span></b><br>
+<span style=""font-size:20px""><b>Every time you press the space bar the image will reappear on the screen for a brief period. You are free to keep pressing the space bar to look at the image as many times as you like in those 6 seconds.</span></b><br>
+<span style=""font-size:20px""><b>After 6 seconds a new image will appear on the screen and you would have the same choice again to either look at the blank screen or press the space bar to look at the that image again.</span></b><br>",off,,
+2 to 41,approach,user,This is the start of approach phase.,block1,,
+0,instruct,user,"<span style=""font-size:20px""><b>You will see an image on the screen. The image will stay on the screen for nearly 6 seconds.</span></b><br>
+<span style=""font-size:20px""><b>During this time, you can either look at the image or remove it by pressing the space bar. Every time you press the space bar the image will disappear for a brief period.</span></b><br>
+<span style=""font-size:20px""><b>You are free to keep pressing the space bar to avoid looking at the image as many times as you like in those 6 seconds.</span></b><br> 
+<span style=""font-size:20px""><b>After 6 seconds a new image will appear on the screen and you would have the same choice again to either look at the image or press the space bar to remove it.</span></b><br>",off,,
+2 to 41,avoidance,user,This is the start of avoidance phase.,block2,,
+0,survey,,,off,autism_quotient,
+0,survey,,,off,sas_ant.csv,
+0,survey,,,off,aa_debrief.csv,
+,,,,,,
