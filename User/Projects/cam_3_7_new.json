@@ -1,1465 +1,18 @@
 {
   "all_procs": {
-    "procedure_1.csv": [
-      [
-        "Item",
-        "Trial Type",
-        "Max Time",
-        "Text",
-        "Shuffle 1",
-        "survey",
-        "left_back",
-        "right_back",
-        "lock_img",
-        "lock_time",
-        "block_lock_img",
-        "left_color",
-        "right_color",
-        "left_type",
-        "right_type",
-        "left_instruction",
-        "right_instruction",
-        ""
-      ],
-      [
-        "0",
-        "instruct",
-        "",
-        "<video width=\"600\" height=\"400\" controls>\r\n  <source src=\"../User/Stimuli/cam/cam_social_1.mp4\" type=\"video/mp4\">\r\n  Your browser does not support the video tag.\r\n</video>",
-        "off",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_info",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_consent",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_demographics",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "instruct",
-        "",
-        "<span style=\"font-size:20px\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"font-size:20px\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"font-size:20px\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>",
-        "off",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "2 to 31",
-        "cam_3",
-        "",
-        "",
-        "trial",
-        "",
-        "../User/Stimuli/cam/red.jpg",
-        "../User/Stimuli/cam/blue.jpg",
-        "../User/Stimuli/cam/lock1.jpg",
-        "1000",
-        "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "red",
-        "blue",
-        "social",
-        "nonsocial",
-        "Press Z to unlock",
-        "Press M to unlock",
-        ""
-      ],
-      [
-        "32 to 61",
-        "cam_3",
-        "",
-        "",
-        "trial",
-        "",
-        "../User/Stimuli/cam/blue.jpg",
-        "../User/Stimuli/cam/red.jpg",
-        "../User/Stimuli/cam/lock1.jpg",
-        "1000",
-        "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "blue",
-        "red",
-        "nonsocial",
-        "social",
-        "Press Z to unlock",
-        "Press M to unlock",
-        ""
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "autism_quotient",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "sas_ant.csv",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "0",
-        "instruct",
-        "",
-        "<span style=\"font-size:40px\"><b>You've completed this part of the study! </span></b><br><br> \r\n<span style=\"font-size:25px\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"font-size:25px\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",
-        "off",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ],
-    "procedure_2.csv": [
-      [
-        "Item",
-        "Trial Type",
-        "Max Time",
-        "Text",
-        "Shuffle 1",
-        "survey",
-        "left_back",
-        "right_back",
-        "lock_img",
-        "lock_time",
-        "block_lock_img",
-        "left_color",
-        "right_color",
-        "left_type",
-        "right_type",
-        "left_instruction",
-        "right_instruction",
-        null
-      ],
-      [
-        "0",
-        "instruct",
-        null,
-        "<video width=\"600\" height=\"400\" controls>\r\n  <source src=\"../User/Stimuli/cam/cam_social_2.mp4\" type=\"video/mp4\">\r\n  Your browser does not support the video tag.\r\n</video>",
-        "off",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "",
-        "",
-        null
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_info",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_consent",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "cam_demographics",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "",
-        "",
-        null
-      ],
-      [
-        "0",
-        "instruct",
-        "",
-        "<span style=\"font-size:20px\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"font-size:20px\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"font-size:20px\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>",
-        "off",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null
-      ],
-      [
-        "2 to 31",
-        "cam_3",
-        "",
-        "",
-        "trial",
-        "",
-        "../User/Stimuli/cam/blue.jpg",
-        "../User/Stimuli/cam/red.jpg",
-        "../User/Stimuli/cam/lock1.jpg",
-        "1000",
-        "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "blue",
-        "red",
-        "social",
-        "nonsocial",
-        "Press Z to unlock",
-        "Press M to unlock",
-        null
-      ],
-      [
-        "32 to 61",
-        "cam_3",
-        "",
-        "",
-        "trial",
-        "",
-        "../User/Stimuli/cam/red.jpg",
-        "../User/Stimuli/cam/blue.jpg",
-        "../User/Stimuli/cam/lock1.jpg",
-        "1000",
-        "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "red",
-        "blue",
-        "nonsocial",
-        "social",
-        "Press Z to unlock",
-        "Press M to unlock",
-        null
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "autism_quotient",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null,
-        null
-      ],
-      [
-        "0",
-        "survey",
-        "",
-        "",
-        "off",
-        "sas_ant.csv",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null,
-        null
-      ],
-      [
-        "0",
-        "instruct",
-        "",
-        "<span style=\"font-size:40px\"><b>You've completed this part of the study! </span></b><br><br> \n<span style=\"font-size:25px\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\n<span style=\"font-size:25px\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",
-        "off",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null,
-        null
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        null,
-        null
-      ]
-    ]
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,instruct,,\"<video width=\"\"600\"\" height=\"\"400\"\" controls>\r\n  <source src=\"\"../User/Stimuli/cam/cam_social_1.mp4\"\" type=\"\"video/mp4\"\">\r\n  Your browser does not support the video tag.\r\n</video>\",off,,,,,,,,,,,,,\r\n0,survey,,,off,cam_info,,,,,,,,,,,,\r\n0,survey,,,off,cam_consent,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,social,nonsocial,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_3,,,trial,,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,blue,red,nonsocial,social,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,autism_quotient,,,,,,,,,,,,\r\n0,survey,,,off,sas_ant.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>You've completed this part of the study! </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>\",off,,,,,,,,,,,,,",
+    "procedure_2.csv": "item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,instruct,,\"<video width=\"\"600\"\" height=\"\"400\"\" controls>\r\n  <source src=\"\"../User/Stimuli/cam/cam_social_2.mp4\"\" type=\"\"video/mp4\"\">\r\n  Your browser does not support the video tag.\r\n</video>\",off,,,,,,,,,,,,,\r\n0,survey,,,off,cam_info,,,,,,,,,,,,\r\n0,survey,,,off,cam_consent,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_3,,,trial,,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,blue,red,social,nonsocial,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,nonsocial,social,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,autism_quotient,,,,,,,,,,,,\r\n0,survey,,,off,sas_ant.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>You've completed this part of the study! </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>\",off,,,,,,,,,,,,,"
   },
-  "cond_array": [
-    [
-      "Name",
-      "Notes",
-      "Stimuli",
-      "Procedure",
-      "fullscreen",
-      "welcome",
-      "participant_id",
-      "end_message",
-      "start_message",
-      "buffer",
-      "download_at_end",
-      "forward_at_end",
-      ""
-    ],
-    [
-      "condition_1",
-      "social task",
-      "stimuli_1.csv",
-      "procedure_1.csv",
-      "on",
-      "",
-      "on",
-      "",
-      "",
-      "5",
-      "on",
-      "",
-      ""
-    ],
-    [
-      "condition_2",
-      "social task",
-      "stimuli_1.csv",
-      "procedure_2.csv",
-      "on",
-      "",
-      "on",
-      "",
-      "",
-      "5",
-      "on",
-      "",
-      ""
-    ],
-    [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  ],
   "all_stims": {
-    "stimuli_1.csv": [
-      [
-        "left_video",
-        "right_video",
-        "left_locks",
-        "right_locks",
-        "lock_diff_on_left",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s1.mp4",
-        "../User/Stimuli/cam/o1.mp4",
-        "1",
-        "1",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s2.mp4",
-        "../User/Stimuli/cam/o2.mp4",
-        "1",
-        "1",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s3.mp4",
-        "../User/Stimuli/cam/o3.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s4.mp4",
-        "../User/Stimuli/cam/o4.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s5.mp4",
-        "../User/Stimuli/cam/o5.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s6.mp4",
-        "../User/Stimuli/cam/o6.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s7.mp4",
-        "../User/Stimuli/cam/o7.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s8.mp4",
-        "../User/Stimuli/cam/o8.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s1.mp4",
-        "../User/Stimuli/cam/o1.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s2.mp4",
-        "../User/Stimuli/cam/o2.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s3.mp4",
-        "../User/Stimuli/cam/o3.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s4.mp4",
-        "../User/Stimuli/cam/o4.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s5.mp4",
-        "../User/Stimuli/cam/o5.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s6.mp4",
-        "../User/Stimuli/cam/o6.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s7.mp4",
-        "../User/Stimuli/cam/o7.mp4",
-        "2",
-        "2",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s8.mp4",
-        "../User/Stimuli/cam/o8.mp4",
-        "2",
-        "2",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s1.mp4",
-        "../User/Stimuli/cam/o1.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s2.mp4",
-        "../User/Stimuli/cam/o2.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s3.mp4",
-        "../User/Stimuli/cam/o3.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s4.mp4",
-        "../User/Stimuli/cam/o4.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s5.mp4",
-        "../User/Stimuli/cam/o5.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s6.mp4",
-        "../User/Stimuli/cam/o6.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s7.mp4",
-        "../User/Stimuli/cam/o7.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s8.mp4",
-        "../User/Stimuli/cam/o8.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s1.mp4",
-        "../User/Stimuli/cam/o1.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s2.mp4",
-        "../User/Stimuli/cam/o2.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s3.mp4",
-        "../User/Stimuli/cam/o3.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s4.mp4",
-        "../User/Stimuli/cam/o4.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s5.mp4",
-        "../User/Stimuli/cam/o5.mp4",
-        "3",
-        "3",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s6.mp4",
-        "../User/Stimuli/cam/o6.mp4",
-        "3",
-        "3",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s7.mp4",
-        "../User/Stimuli/cam/o7.mp4",
-        "1",
-        "1",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/s8.mp4",
-        "../User/Stimuli/cam/o8.mp4",
-        "1",
-        "1",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o1.mp4",
-        "../User/Stimuli/cam/s1.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o2.mp4",
-        "../User/Stimuli/cam/s2.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o3.mp4",
-        "../User/Stimuli/cam/s3.mp4",
-        "1",
-        "2",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o4.mp4",
-        "../User/Stimuli/cam/s4.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o5.mp4",
-        "../User/Stimuli/cam/s5.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o6.mp4",
-        "../User/Stimuli/cam/s6.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o7.mp4",
-        "../User/Stimuli/cam/s7.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o8.mp4",
-        "../User/Stimuli/cam/s8.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o1.mp4",
-        "../User/Stimuli/cam/s1.mp4",
-        "1",
-        "3",
-        "-2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o2.mp4",
-        "../User/Stimuli/cam/s2.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o3.mp4",
-        "../User/Stimuli/cam/s3.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o4.mp4",
-        "../User/Stimuli/cam/s4.mp4",
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o5.mp4",
-        "../User/Stimuli/cam/s5.mp4",
-        "2",
-        "2",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o6.mp4",
-        "../User/Stimuli/cam/s6.mp4",
-        "2",
-        "2",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o7.mp4",
-        "../User/Stimuli/cam/s7.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o8.mp4",
-        "../User/Stimuli/cam/s8.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o1.mp4",
-        "../User/Stimuli/cam/s1.mp4",
-        "2",
-        "3",
-        "-1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o2.mp4",
-        "../User/Stimuli/cam/s2.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o3.mp4",
-        "../User/Stimuli/cam/s3.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o4.mp4",
-        "../User/Stimuli/cam/s4.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o5.mp4",
-        "../User/Stimuli/cam/s5.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o6.mp4",
-        "../User/Stimuli/cam/s6.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o7.mp4",
-        "../User/Stimuli/cam/s7.mp4",
-        "3",
-        "1",
-        "2",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o8.mp4",
-        "../User/Stimuli/cam/s8.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o1.mp4",
-        "../User/Stimuli/cam/s1.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o2.mp4",
-        "../User/Stimuli/cam/s2.mp4",
-        "3",
-        "2",
-        "1",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o3.mp4",
-        "../User/Stimuli/cam/s3.mp4",
-        "3",
-        "3",
-        "0",
-        ""
-      ],
-      [
-        "../User/Stimuli/cam/o4.mp4",
-        "../User/Stimuli/cam/s4.mp4",
-        "3",
-        "3",
-        "0",
-        ""
-      ],
-      [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    ]
+    "stimuli_1.csv": "left_video,right_video,left_locks,right_locks,lock_diff_on_left,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,1,1,0,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,1,1,0,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,1,2,-1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,1,2,-1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,1,2,-1,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,1,3,-2,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,1,3,-2,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,1,3,-2,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,1,3,-2,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,1,3,-2,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,1,3,-2,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,2,1,1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,2,1,1,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,2,1,1,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,2,2,0,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,2,2,0,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,2,3,-1,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,2,3,-1,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,2,3,-1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,3,1,2,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,3,1,2,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,3,1,2,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,3,1,2,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,3,1,2,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,3,1,2,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,3,2,1,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,3,2,1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,3,2,1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,3,3,0,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,3,3,0,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,1,1,0,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,1,1,0,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,1,2,-1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,1,2,-1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,1,2,-1,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,1,3,-2,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,1,3,-2,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,1,3,-2,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,1,3,-2,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,1,3,-2,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,1,3,-2,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,2,1,1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,2,1,1,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,2,1,1,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,2,2,0,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,2,2,0,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,2,3,-1,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,2,3,-1,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,2,3,-1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,3,1,2,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,3,1,2,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,3,1,2,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,3,1,2,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,3,1,2,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,3,1,2,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,3,2,1,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,3,2,1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,3,2,1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,3,3,0,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,3,3,0,\r\n,,,,,"
   },
-  "public_key": "XOk2ZCsBElxBR+Gi09/DFpFFxwi19fZ+87URnPr0Ym8=",
+  "public_key": "HXUZhDI/M9fcaHPfMXWGc5t7vi2rRyefLlxz8pb3PF8=",
   "data_scripts": {
     "free": [
       "https://ocollector.org/StoreData.php"
     ],
     "ocollector.org": "https://ocollector.org/StoreData7.php",
     "open-collector.org": "https://open-collector.org/StoreData.php"
-  },
-  "parsed_procs": {
-    "procedure_1.csv": [
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<video width=\"600\" height=\"400\" controls>\r\n  <source src=\"../User/Stimuli/cam/cam_social_1.mp4\" type=\"video/mp4\">\r\n  Your browser does not support the video tag.\r\n</video>",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_info",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_consent",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_demographics",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<span style=\"font-size:20px\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"font-size:20px\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"font-size:20px\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "../User/Stimuli/cam/red.jpg",
-        "right_back": "../User/Stimuli/cam/blue.jpg",
-        "lock_img": "../User/Stimuli/cam/lock1.jpg",
-        "lock_time": "1000",
-        "block_lock_img": "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "left_color": "red",
-        "right_color": "blue",
-        "left_type": "social",
-        "right_type": "nonsocial",
-        "left_instruction": "Press Z to unlock",
-        "right_instruction": "Press M to unlock",
-        "": "",
-        "item": "2 to 31",
-        "trial type": "cam_3",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "trial"
-      },
-      {
-        "survey": "",
-        "left_back": "../User/Stimuli/cam/blue.jpg",
-        "right_back": "../User/Stimuli/cam/red.jpg",
-        "lock_img": "../User/Stimuli/cam/lock1.jpg",
-        "lock_time": "1000",
-        "block_lock_img": "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "left_color": "blue",
-        "right_color": "red",
-        "left_type": "nonsocial",
-        "right_type": "social",
-        "left_instruction": "Press Z to unlock",
-        "right_instruction": "Press M to unlock",
-        "": "",
-        "item": "32 to 61",
-        "trial type": "cam_3",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "trial"
-      },
-      {
-        "survey": "autism_quotient",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "sas_ant.csv",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<span style=\"font-size:40px\"><b>You've completed this part of the study! </span></b><br><br> \r\n<span style=\"font-size:25px\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"font-size:25px\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",
-        "shuffle 1": "off"
-      }
-    ],
-    "procedure_2.csv": [
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<video width=\"600\" height=\"400\" controls>\r\n  <source src=\"../User/Stimuli/cam/cam_social_2.mp4\" type=\"video/mp4\">\r\n  Your browser does not support the video tag.\r\n</video>",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_info",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_consent",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "cam_demographics",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<span style=\"font-size:20px\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"font-size:20px\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"font-size:20px\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"font-size:20px\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "../User/Stimuli/cam/blue.jpg",
-        "right_back": "../User/Stimuli/cam/red.jpg",
-        "lock_img": "../User/Stimuli/cam/lock1.jpg",
-        "lock_time": "1000",
-        "block_lock_img": "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "left_color": "blue",
-        "right_color": "red",
-        "left_type": "social",
-        "right_type": "nonsocial",
-        "left_instruction": "Press Z to unlock",
-        "right_instruction": "Press M to unlock",
-        "": "",
-        "item": "2 to 31",
-        "trial type": "cam_3",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "trial"
-      },
-      {
-        "survey": "",
-        "left_back": "../User/Stimuli/cam/red.jpg",
-        "right_back": "../User/Stimuli/cam/blue.jpg",
-        "lock_img": "../User/Stimuli/cam/lock1.jpg",
-        "lock_time": "1000",
-        "block_lock_img": "../User/Stimuli/cam/lock1_crossed_out.jpg",
-        "left_color": "red",
-        "right_color": "blue",
-        "left_type": "nonsocial",
-        "right_type": "social",
-        "left_instruction": "Press Z to unlock",
-        "right_instruction": "Press M to unlock",
-        "": "",
-        "item": "32 to 61",
-        "trial type": "cam_3",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "trial"
-      },
-      {
-        "survey": "autism_quotient",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "sas_ant.csv",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "survey",
-        "max time": "",
-        "text": "",
-        "shuffle 1": "off"
-      },
-      {
-        "survey": "",
-        "left_back": "",
-        "right_back": "",
-        "lock_img": "",
-        "lock_time": "",
-        "block_lock_img": "",
-        "left_color": "",
-        "right_color": "",
-        "left_type": "",
-        "right_type": "",
-        "left_instruction": "",
-        "right_instruction": "",
-        "": "",
-        "item": "0",
-        "trial type": "instruct",
-        "max time": "",
-        "text": "<span style=\"font-size:40px\"><b>You've completed this part of the study! </span></b><br><br> \n<span style=\"font-size:25px\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\n<span style=\"font-size:25px\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",
-        "shuffle 1": "off"
-      }
-    ]
   },
   "surveys": {
     "cam_info": [
@@ -1475,7 +28,7 @@
       ],
       [
         "Instructions1",
-        "<h1>PARTICIPANT INFORMATION SHEET </h1>\n\n<h2>Title of Project:  Nature of co-occurring worry in autism.</h2>\n\n<h3>Name of Lead Investigator:  Dr Indu Dubey (De Montfort University) </h3>\n\n<h4>Invitation paragraph</h4>\nYou have been invited to take part in a research study.  Before you decide whether to take part it is important for you to understand why the research is being done and what it will involve.  Please take time to read the following information carefully and discuss it with friends and relatives if you wish to. Ask us if there is anything that is not clear or if you would like more information. Take time to decide whether you wish to take part or not.  Thank you for reading this.<br><br>\n\n<h4>What is the study about?</h4>\nWorry is a commonly reported difficulty in several mental health conditions. A large number of people who are diagnosed with autism also report having significant worry interfering with their day to day life. In this study we aim to explore various ways through which different events or situations may affect the experience of worry in adults with and without autism or other mental health conditions.<br><br>\n\n<h4>What does the study involve?</h4>\nIf you decide to participate you will be asked to follow links to the different parts of online study. The study has been divided into three parts and each part has its separate link. You can choose to complete either one, two or all three parts. Each link has two questionnaires and one choice game in them. These questionnaires would have items related to your day to day preferences and behaviours. You would be expected to give a response to all the items presented. You will also play a “Choose a movie” game. In this game you will see two boxes on the screen with different numbers of locks on them. You will be asked to choose any one of the boxes to look at the linked images or videos. To open any box, you would need to press the keys as many times as the locks on the chosen box. There is no right or wrong way of choosing the boxes and there is no score for choosing any one box. You will be free to choose any box and look at the images/videos you like. At the end, you will be directed to the completion page. A debrief form will be sent to you via email at the end of your participation in the study. The debrief form will tell you a little more about the study and would provide you the information about the researcher if you would like to know more about the project. <br><br>\n\n<h4>Why have I been chosen?</h4>\nAny adult above 18 years of age can participate in the study. We are interested in understanding the nature of worry in adults. Since most people experience some of other form of worry at some point in their lives, the study would benefit from the participation of adults from wide range of experiences. As the nature of the project, we would be particularly interested in involving adults who have received a diagnosis of autism spectrum disorders (ASD) or anxiety disorders (irrespective of co-occurring conditions). <br><br>\n\n<h4>Do I have to take part?</h4>\nIt is up to you to decide whether or not to take part.  If you do decide to take part you will be given this information sheet to keep and be asked to sign a consent form.  If you decide to take part you are still free to withdraw at any time during the data collection without giving a reason.<br><br>\n\n<h4>I am interested in taking part, what do I do next?</h4>\nPlease contact the researcher who’s contact details are shared in the advertisement. The researcher will then send you an email with your unique participation code and links to the online study. Please find a quiet room with minimal distractions. Please ensure you have a good internet connection on a PC / laptop / tablet device. Please do not run the study on a mobile phone. Every person completes the tasks with different speed however we expect that it may take you between 35 – 45 minutes to complete each link. Make sure that you have sufficient time to complete each part of the study. Once ready please follow the link to the online study.<br><br>\n\n<h4>What if I agree to take part and then change my mind?</h4>\nIf you would like to withdraw from the study before completing the tasks, you will be able to do this by closing the browser. Since we would not know if the task was skipped due to technical error or you wished to withdraw, you would need to provide your participation ID to the researchers. Researcher will then delete all the data generated by that ID. You can withdraw from the study at any stage including after the completing the study, without giving a reason. If you decide to withdraw you would need to provide your participation ID to the researchers. The researcher will then delete all the data generated by that ID from their computers. Please note that you can withdraw from the study only up to two days after the completion of the study. <br><br>\n\n<h4>What is the procedure that is being tested?</h4>\nYou will be asked to participate in the study using your private computer/laptop/tablet device but NOT mobile phones. <br><br>\n\n<h4>What are the possible disadvantages and risks of taking part?</h4>\nParticipation in this study can be tiring as each part may take approximately 35-45 minutes to respond to various questions and game on computer. Therefore, it is suggested that you take part only when you are feeling ready to spend required time on the tasks. Also, for some people making choices, looking at randomly chosen video clips of natural scenes, smiling people, or any ambiguity can be difficult to deal with. If you think you may feel distressed by these then we advise you not to participate in the study. <br><br>\n\n<h4>What are the possible benefits of taking part? </h4>\nThere is no direct benefit to the participants however your participation will help us understanding the nature of worry in autism. This can then help in developing suitable interventions for the same. <br><br>\n\n<h4>What if something goes wrong?</h4>\nIf you are harmed by taking part in this research project, there are no special compensation arrangements.  If you are harmed due to someone’s negligence, then you may have grounds for a legal action but you may have to pay for it.  Regardless of this, if you wish to complain, or have any concerns about any aspect of the way you have been approached or treated during the course of this study, the normal University complaints mechanisms should be available to you.<br><br>\n \n<h4>Who can I complain to?</h4>\nIf you have a complaint regarding anything to do with this study, you can initially approach the lead investigator Dr Indu Dubey (indu.dubey@dmu.ac.uk).  If this achieves no satisfactory outcome, you should then contact the Administrator for the Faculty Research Ethics Committee, Research & Innovation Office, Faculty of Health & Life Sciences, 3.35 Edith Murphy House, De Montfort University, The Gateway, Leicester, LE1 9BH or hlsfro@dmu.ac.uk  <br><br>\n\n<h4>Will my taking part in this study be kept confidential?</h4>\nAll information which is collected about you during the course of the research will be kept on a password protected devices and is strictly confidential. You will be given a unique participation ID code which will be used instead of your name. Any identifiable information you may give will be kept separate from your data. Your data can be shared with the academic collaborators listed below. <br>\nDr Mohammad Zia Ul Haq Katshu (University of Nottingham)<br>\nDr Anthony Haffey (University of Reading)<br>\nDr Christopher Retzler (University of Huddersfield)<br>\nDr Jennifer Retzler (University of Huddersfield)<br>\nMiss Kharis Hurst (De Montfort University)<br>\nAny research assistant recruited in the project<br>\n\nYour anonymised data can be shared with other research teams interested in understating it further.<br>\nThe raw data will be stored for up to 10 years after a study has been completed. Members of the faculty human research ethics committee may require access to check that the study has been conducted in accordance with the approval. <br>\nYou should also be aware that we may be duty bound to pass on information that you provide that reveals harm has occurred to a child or other vulnerable individual.<br><br>\n\n<h4>What will happen to the results of the research study?</h4>\nThe results based on performance of the group of participants will be then analysed and submitted for publication in peer reviewed scientific journals. <br><br>\n\n<h4>Who is organising and funding the research?</h4>\nDe Montfort University is providing some funding for this study. It is being run as a collaborative academic effort from Dr Indu Dubey at De Montfort University and her academic collaborators.<br><br>\n\n<h4>Who has reviewed the study?</h4>\nThis study has been reviewed and approved by De Montfort University, Faculty of Health and Life Sciences Research Ethics Committee.<br><br>\n\nContact for Further Information<br>\nDr Indu Dubey<br>\nLecturer in Psychology<br>\nRoom 0.35, Hawthorn Building<br>\nDivision of Psychology,<br>\nSchool of Applied Social Sciences,<br>\nDe Montfort University,<br>\nLeicester, UK<br>\nPhone: 0116 366 4401<br>\nEmail: indu.dubey@dmu.ac.uk",
+        "<h1>PARTICIPANT INFORMATION SHEET </h1>\n\n<h2>Title of Project:  Nature of co-occurring worry in autism.</h2>\n\n<h3>Name of Lead Investigator:  Dr Indu Dubey (De Montfort University) </h3>\n\n<h4>Invitation paragraph</h4>\nYou have been invited to take part in a research study.  Before you decide whether to take part it is important for you to understand why the research is being done and what it will involve.  Please take time to read the following information carefully and discuss it with friends and relatives if you wish to. Ask us if there is anything that is not clear or if you would like more information. Take time to decide whether you wish to take part or not.  Thank you for reading this.<br><br>\n\n<h4>What is the study about?</h4>\nWorry is a commonly reported difficulty in several mental health conditions. A large number of people who are diagnosed with autism also report having significant worry interfering with their day to day life. In this study we aim to explore various ways through which different events or situations may affect the experience of worry in adults with and without autism or other mental health conditions.<br><br>\n\n<h4>What does the study involve?</h4>\nIf you decide to participate you will be asked to follow links to the different parts of online study. The study has been divided into three parts and each part has its separate link. You can choose to complete either one, two or all three parts. Each link has two questionnaires and one choice game in them. These questionnaires would have items related to your day to day preferences and behaviours. You would be expected to give a response to all the items presented. You will also play a âChoose a movieâ game. In this game you will see two boxes on the screen with different numbers of locks on them. You will be asked to choose any one of the boxes to look at the linked images or videos. To open any box, you would need to press the keys as many times as the locks on the chosen box. There is no right or wrong way of choosing the boxes and there is no score for choosing any one box. You will be free to choose any box and look at the images/videos you like. At the end, you will be directed to the completion page. A debrief form will be sent to you via email at the end of your participation in the study. The debrief form will tell you a little more about the study and would provide you the information about the researcher if you would like to know more about the project. <br><br>\n\n<h4>Why have I been chosen?</h4>\nAny adult above 18 years of age can participate in the study. We are interested in understanding the nature of worry in adults. Since most people experience some of other form of worry at some point in their lives, the study would benefit from the participation of adults from wide range of experiences. As the nature of the project, we would be particularly interested in involving adults who have received a diagnosis of autism spectrum disorders (ASD) or anxiety disorders (irrespective of co-occurring conditions). <br><br>\n\n<h4>Do I have to take part?</h4>\nIt is up to you to decide whether or not to take part.  If you do decide to take part you will be given this information sheet to keep and be asked to sign a consent form.  If you decide to take part you are still free to withdraw at any time during the data collection without giving a reason.<br><br>\n\n<h4>I am interested in taking part, what do I do next?</h4>\nPlease contact the researcher whoâs contact details are shared in the advertisement. The researcher will then send you an email with your unique participation code and links to the online study. Please find a quiet room with minimal distractions. Please ensure you have a good internet connection on a PC / laptop / tablet device. Please do not run the study on a mobile phone. Every person completes the tasks with different speed however we expect that it may take you between 35 â 45 minutes to complete each link. Make sure that you have sufficient time to complete each part of the study. Once ready please follow the link to the online study.<br><br>\n\n<h4>What if I agree to take part and then change my mind?</h4>\nIf you would like to withdraw from the study before completing the tasks, you will be able to do this by closing the browser. Since we would not know if the task was skipped due to technical error or you wished to withdraw, you would need to provide your participation ID to the researchers. Researcher will then delete all the data generated by that ID. You can withdraw from the study at any stage including after the completing the study, without giving a reason. If you decide to withdraw you would need to provide your participation ID to the researchers. The researcher will then delete all the data generated by that ID from their computers. Please note that you can withdraw from the study only up to two days after the completion of the study. <br><br>\n\n<h4>What is the procedure that is being tested?</h4>\nYou will be asked to participate in the study using your private computer/laptop/tablet device but NOT mobile phones. <br><br>\n\n<h4>What are the possible disadvantages and risks of taking part?</h4>\nParticipation in this study can be tiring as each part may take approximately 35-45 minutes to respond to various questions and game on computer. Therefore, it is suggested that you take part only when you are feeling ready to spend required time on the tasks. Also, for some people making choices, looking at randomly chosen video clips of natural scenes, smiling people, or any ambiguity can be difficult to deal with. If you think you may feel distressed by these then we advise you not to participate in the study. <br><br>\n\n<h4>What are the possible benefits of taking part? </h4>\nThere is no direct benefit to the participants however your participation will help us understanding the nature of worry in autism. This can then help in developing suitable interventions for the same. <br><br>\n\n<h4>What if something goes wrong?</h4>\nIf you are harmed by taking part in this research project, there are no special compensation arrangements.  If you are harmed due to someoneâs negligence, then you may have grounds for a legal action but you may have to pay for it.  Regardless of this, if you wish to complain, or have any concerns about any aspect of the way you have been approached or treated during the course of this study, the normal University complaints mechanisms should be available to you.<br><br>\n \n<h4>Who can I complain to?</h4>\nIf you have a complaint regarding anything to do with this study, you can initially approach the lead investigator Dr Indu Dubey (indu.dubey@dmu.ac.uk).  If this achieves no satisfactory outcome, you should then contact the Administrator for the Faculty Research Ethics Committee, Research & Innovation Office, Faculty of Health & Life Sciences, 3.35 Edith Murphy House, De Montfort University, The Gateway, Leicester, LE1 9BH or hlsfro@dmu.ac.uk  <br><br>\n\n<h4>Will my taking part in this study be kept confidential?</h4>\nAll information which is collected about you during the course of the research will be kept on a password protected devices and is strictly confidential. You will be given a unique participation ID code which will be used instead of your name. Any identifiable information you may give will be kept separate from your data. Your data can be shared with the academic collaborators listed below. <br>\nDr Mohammad Zia Ul Haq Katshu (University of Nottingham)<br>\nDr Anthony Haffey (University of Reading)<br>\nDr Christopher Retzler (University of Huddersfield)<br>\nDr Jennifer Retzler (University of Huddersfield)<br>\nMiss Kharis Hurst (De Montfort University)<br>\nAny research assistant recruited in the project<br>\n\nYour anonymised data can be shared with other research teams interested in understating it further.<br>\nThe raw data will be stored for up to 10 years after a study has been completed. Members of the faculty human research ethics committee may require access to check that the study has been conducted in accordance with the approval. <br>\nYou should also be aware that we may be duty bound to pass on information that you provide that reveals harm has occurred to a child or other vulnerable individual.<br><br>\n\n<h4>What will happen to the results of the research study?</h4>\nThe results based on performance of the group of participants will be then analysed and submitted for publication in peer reviewed scientific journals. <br><br>\n\n<h4>Who is organising and funding the research?</h4>\nDe Montfort University is providing some funding for this study. It is being run as a collaborative academic effort from Dr Indu Dubey at De Montfort University and her academic collaborators.<br><br>\n\n<h4>Who has reviewed the study?</h4>\nThis study has been reviewed and approved by De Montfort University, Faculty of Health and Life Sciences Research Ethics Committee.<br><br>\n\nContact for Further Information<br>\nDr Indu Dubey<br>\nLecturer in Psychology<br>\nRoom 0.35, Hawthorn Building<br>\nDivision of Psychology,<br>\nSchool of Applied Social Sciences,<br>\nDe Montfort University,<br>\nLeicester, UK<br>\nPhone: 0116 366 4401<br>\nEmail: indu.dubey@dmu.ac.uk",
         "Instruct",
         "",
         "",
@@ -2740,830 +1293,288 @@
         "Answers",
         "Values",
         "Score: AQ_Test",
-        "Score: Social_Skill",
-        "Score: Attention_switching",
-        "Score: Communication",
-        "Score: Imagination",
-        "Score: Attention_to_detail",
         "Optional",
-        "btn_width",
-        ""
+        null
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>",
+        "Please choose to from the scale ranging from 1=ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂnot at all characteristic of meÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ to 5=ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂentirely characteristic of meÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.",
         "Instruct",
         "",
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        null
       ],
       [
-        "AQ1",
-        "I prefer to do things with others rather than on my own.",
+        "IU1",
+        "Uncertainty stops me from having a strong opinion.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ2",
-        "I prefer to do things the same way over and over again.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ3",
-        "If I try to imagine something, I find it very easy to create a picture in my mind.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ4",
-        "I frequently get so strongly absorbed in one thing that I lose sight of other things.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ5",
-        "I often notice small sounds when others do not.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ6",
-        "I usually notice car number plates or similar strings of information.",
+        "IU2",
+        "Being uncertain means that a person is disorganized.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ7",
-        "Other people frequently tell me that what I've said is impolite, even though I think it is polite.",
+        "IU3",
+        "Uncertainty makes life intolerable.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ8",
-        "When I'm reading a story, I can easily imagine what the characters might look like.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ9",
-        "I am fascinated by dates.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ10",
-        "In a social group, I can easily keep track of several different people's conversations.",
+        "IU4",
+        "It's unfair having no guarantees in life.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "r1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ11",
-        "I find social situations easy.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ12",
-        "I tend to notice details that others do not.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ13",
-        "I would rather go to a library than a party.",
+        "IU5",
+        "My mind can't be relaxed if I don't know what will happen tomorrow.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ14",
-        "I find making up stories easy.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ15",
-        "I find myself drawn more strongly to people than to things.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ16",
-        "I tend to have very strong interests which I get upset about if I can't pursue.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ17",
-        "I enjoy social chit-chat.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "r1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ18",
-        "When I talk, it isn't always easy for others to get a word in edgeways.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ19",
-        "I am fascinated by numbers.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ20",
-        "When I'm reading a story, I find it difficult to work out the characters' intentions.",
+        "IU6",
+        "Uncertainty makes me uneasy, anxious, or stressed.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ21",
-        "I don't particularly enjoy reading fiction.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ22",
-        "I find it hard to make new friends.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ23",
-        "I notice patterns in things all the time.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ24",
-        "I would rather go to the theatre than a museum.",
+        "IU7",
+        "Unforeseen events upset me greatly.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ25",
-        "It does not upset me if my daily routine is disturbed.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "r1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ26",
-        "I frequently find that I don't know how to keep a conversation going.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU8",
+        "It frustrates me not having all the information I need.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ27",
-        "I find it easy to 'read between the lines' when someone is talking to me.",
+        "IU9",
+        "Uncertainty keeps me from living a full life.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "r1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ28",
-        "I usually concentrate more on the whole picture, rather than the small details.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "r1",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ29",
-        "I am not very good at remembering phone numbers.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "r1",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ30",
-        "I don't usually notice small changes in a situation, or a person's appearance.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "r1",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ31",
-        "I know how to tell if someone listening to me is getting bored.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "r1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ32",
-        "I find it easy to do more than one thing at once.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "r1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ33",
-        "When I talk on the phone, I'm not sure when it's my turn to speak.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU10",
+        "One should always look ahead so as to avoid surprises.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ34",
-        "I enjoy doing things spontaneously.",
+        "IU11",
+        "A small unforeseen event can spoil everything, even with the best planning.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "r1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ35",
-        "I am often the last to understand the point of a joke.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU12",
+        "When it's time to act, uncertainty paralyses me.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ36",
-        "I find it easy to work out what someone is thinking or feeling just by looking at their face.",
+        "IU13",
+        "Being uncertain means that I am not first rate.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ37",
-        "If there is an interruption, I can switch back to what I was doing very quickly.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "r1",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ38",
-        "I am good at social chit-chat.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "r1",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ39",
-        "People often tell me that I keep going on and on about the same thing.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "1",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ40",
-        "When I was young, I used to enjoy playing games involving pretending with other children.",
+        "IU14",
+        "When I am uncertain, I can't go forward.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ41",
-        "I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant, etc.).",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "",
-        "1",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ42",
-        "I find it difficult to imagine what it would be like to be someone else.",
+        "IU15",
+        "When I am uncertain, I can't function very well.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU16",
+        "Unlike me, others seem to know where they are going with their lives.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ43",
-        "I like to plan any activities I participate in carefully.",
+        "IU17",
+        "Uncertainty makes me vulnerable, unhappy, or sad.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU18",
+        "I always want to know what the future has in store for me.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ44",
-        "I enjoy social occasions.",
+        "IU19",
+        "I can't stand being taken by surprise.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "No",
-        "100px",
-        ""
-      ],
-      [
-        "AQ45",
-        "I find it difficult to work out people's intentions.",
-        "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
+        "No",
+        null
+      ],
+      [
+        "IU20",
+        "The smallest doubt can stop me from acting.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ46",
-        "New situations make me anxious.",
+        "IU21",
+        "I should be able to organize everything in advance.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
+        "No",
+        null
+      ],
+      [
+        "IU22",
+        "Being uncertain means that I lack confidence.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
         "1",
-        "",
-        "",
-        "",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ47",
-        "I enjoy meeting new people.",
+        "IU23",
+        "I think it's unfair that other people seem to be sure about their future.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
+        "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ48",
-        "I am a good diplomat.",
+        "IU24",
+        "Uncertainty keeps me from sleeping soundly.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "r1",
-        "",
-        "",
-        "",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
+        "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ49",
-        "I am not very good at remembering people's date of birth.",
+        "IU25",
+        "I must get away from all uncertain situations.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "",
-        "r1",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
+        "1",
         "No",
-        "100px",
-        ""
+        null
       ],
       [
-        "AQ50",
-        "I find it very easy to play games with children that involve pretending.",
+        "IU26",
+        "The ambiguities in life stress me.",
         "likert",
-        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
-        "1|1|0|0",
-        "r1",
-        "",
-        "",
-        "",
-        "r1",
-        "",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
+        "1",
         "No",
-        "100px",
-        ""
+        null
+      ],
+      [
+        "IU27",
+        "I can't stand being undecided about my future.",
+        "likert",
+        "1|2|3|4|5",
+        "1|2|3|4|5",
+        "1",
+        "No",
+        null
       ],
       [
         "",
@@ -3573,13 +1584,7 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        null
       ]
     ],
     "scarred_survey": [
@@ -4365,7 +2370,7 @@
         "Score: Social_Avoidance",
         "Optional",
         "btn_width",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -4381,7 +2386,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "LSAS1",
@@ -4397,7 +2402,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "LSAS1_feel",
@@ -4413,7 +2418,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS1_avoid",
@@ -4429,7 +2434,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS2",
@@ -4445,7 +2450,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS2_feel",
@@ -4461,7 +2466,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS2_avoid",
@@ -4477,7 +2482,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS3",
@@ -4493,7 +2498,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS3_feel",
@@ -4509,7 +2514,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS3_avoid",
@@ -4525,7 +2530,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS4",
@@ -4541,7 +2546,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS4_feel",
@@ -4557,7 +2562,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS4_avoid",
@@ -4573,7 +2578,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS5",
@@ -4589,7 +2594,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS5_feel",
@@ -4605,7 +2610,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS5_avoid",
@@ -4621,7 +2626,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS6",
@@ -4637,7 +2642,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS6_feel",
@@ -4653,7 +2658,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS6_avoid",
@@ -4669,7 +2674,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS7",
@@ -4685,7 +2690,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS7_feel",
@@ -4701,7 +2706,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS7_avoid",
@@ -4717,7 +2722,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS8",
@@ -4733,7 +2738,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS8_feel",
@@ -4749,7 +2754,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS8_avoid",
@@ -4765,7 +2770,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS9",
@@ -4781,7 +2786,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS9_feel",
@@ -4797,7 +2802,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS9_avoid",
@@ -4813,7 +2818,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS10",
@@ -4829,7 +2834,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS10_feel",
@@ -4845,7 +2850,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS10_avoid",
@@ -4861,7 +2866,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS11",
@@ -4877,7 +2882,7 @@
         "1",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS11_feel",
@@ -4893,7 +2898,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS11_avoid",
@@ -4909,7 +2914,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS12",
@@ -4925,7 +2930,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS12_feel",
@@ -4941,7 +2946,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS12_avoid",
@@ -4957,7 +2962,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS13",
@@ -4973,7 +2978,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS13_feel",
@@ -4989,7 +2994,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS13_avoid",
@@ -5005,7 +3010,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS14",
@@ -5021,7 +3026,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS14_feel",
@@ -5037,7 +3042,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS14_avoid",
@@ -5053,7 +3058,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS15",
@@ -5069,7 +3074,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS15_feel",
@@ -5085,7 +3090,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS15_avoid",
@@ -5101,7 +3106,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS16",
@@ -5117,7 +3122,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS16_feel",
@@ -5133,7 +3138,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS16_avoid",
@@ -5149,7 +3154,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS17",
@@ -5165,7 +3170,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS17_feel",
@@ -5181,7 +3186,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS17_avoid",
@@ -5197,7 +3202,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS18",
@@ -5213,7 +3218,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS18_feel",
@@ -5229,7 +3234,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS18_avoid",
@@ -5245,7 +3250,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS19",
@@ -5261,7 +3266,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS19_feel",
@@ -5277,7 +3282,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS19_avoid",
@@ -5293,7 +3298,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS20",
@@ -5309,7 +3314,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS20_feel",
@@ -5325,7 +3330,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS20_avoid",
@@ -5341,7 +3346,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS21",
@@ -5357,7 +3362,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS21_feel",
@@ -5373,7 +3378,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS21_avoid",
@@ -5389,7 +3394,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS22",
@@ -5405,7 +3410,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS22_feel",
@@ -5421,7 +3426,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS22_avoid",
@@ -5437,7 +3442,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS23",
@@ -5453,7 +3458,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS23_feel",
@@ -5469,7 +3474,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS23_avoid",
@@ -5485,7 +3490,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS24",
@@ -5501,7 +3506,7 @@
         "",
         "No",
         "",
-        null
+        ""
       ],
       [
         "LSAS24_feel",
@@ -5517,7 +3522,7 @@
         "",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "LSAS24_avoid",
@@ -5533,7 +3538,7 @@
         "1",
         "No",
         "200px",
-        null
+        ""
       ],
       [
         "",
@@ -5549,7 +3554,7 @@
         "",
         "",
         "",
-        null
+        ""
       ]
     ]
   },
@@ -5562,50 +3567,18 @@
     "cam_2": "\n<style>\n#everything_div{\n  margin:auto;\n  width:725px;\n  /* padding:50px; */\n  height:400px;\n  text-align: center;\n  position:absolute;\n  top:0;\n\tbottom: 0;\n\tleft: 0;\n\tright: 0;\n}\n\n#left_img{\n  position:absolute;\n  left:0px;\n  top:0px;\n}\n\n#right_img{\n  position:absolute;\n  left:400px;\n  top:0px;\n}\n#block_left_lock_1{\n  left:125px;\n}\n#block_left_lock_2{\n  left:0px;\n}\n#block_left_lock_3{\n  left:250px;\n}\n#block_right_lock_1{\n  left:525px;\n}\n#block_right_lock_2{\n  left:400px;\n}\n#block_right_lock_3{\n  left:650px;\n}\n#left_lock_1{\n  left:125px;\n}\n#left_lock_2{\n  left:0px;\n}\n#left_lock_3{\n  left:250px;\n}\n#right_lock_1{\n  left:525px;\n}\n#right_lock_2{\n  left:400px;\n}\n#right_lock_3{\n  left:650px;\n}\n.block_lock{\n  position:absolute;\n  width:50px;\n  height:50px;\n  z-index:2;\n  display:none;\n  top:0px;\n}\n.lock_img{\n  position:absolute;\n  width:50px;\n  height:50px;\n  z-index:2;\n  display:none;\n  top:0px;\n}\n.stim_style{\n  height:325px;\n  width:325px;\n  z-index:1;\n}\n.video_stim{\n  margin:auto;\n  display:none;\n  height:400px;\n  width:600px;\n  text-align: center;\n  position:absolute;\n  top:0;\n\tbottom: 0;\n\tleft: 0;\n\tright: 0;\n\tz-index:5;\n}\n</style>\n<div id=\"everything_div\">\n  <img id='left_img' src=\"{{left_back}}\" class=\"stim_style\" />\n  <video id=\"left_video\" class=\"stim_style video_stim\" muted>\n    <source src=\"{{left_video}}\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n  </video>\n  <img id='right_img' src=\"{{right_back}}\" class=\"stim_style\" />\n  <video id=\"right_video\"  class=\"stim_style video_stim\" muted>\n    <source src=\"{{right_video}}\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n  </video>\n  <img id=\"left_lock_1\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\n  <img id=\"left_lock_2\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\n  <img id=\"left_lock_3\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\n  <img id=\"right_lock_1\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\n  <img id=\"right_lock_2\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\n  <img id=\"right_lock_3\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\n  <img id=\"block_left_lock_1\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n  <img id=\"block_left_lock_2\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n  <img id=\"block_left_lock_3\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n  <img id=\"block_right_lock_1\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n  <img id=\"block_right_lock_2\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n  <img id=\"block_right_lock_3\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\n</div>\n<input type=\"hidden\" id=\"left_right_chosen\" name=\"left_right_chosen\">\n<input type=\"hidden\" id=\"type_chosen\"       name=\"type_chosen\">\n<input type=\"hidden\" id=\"lock_1_rt\"         name=\"lock_1_rt\">\n<input type=\"hidden\" id=\"lock_2_rt\"         name=\"lock_2_rt\">\n<input type=\"hidden\" id=\"lock_3_rt\"         name=\"lock_3_rt\">\n<input type=\"hidden\" id=\"vid_rt\"            name=\"vid_rt\">\n\n<script>\nlocks_obj = {\n  left_locks:   \"{{left_locks}}\",\n  right_locks:  \"{{right_locks}}\",\n  left_type:  \"{{left_type}}\",\n  right_type: \"{{right_type}}\",\n  locks_clicked: 0\n}\n$(\"#left_lock_1\").show();\n\nif(locks_obj.left_locks > 1){\n  $(\"#left_lock_2\").show();\n}\nif(locks_obj.left_locks == 3){\n  $(\"#left_lock_3\").show();\n}\n\n\n$(\"#right_lock_1\").show();\nif(locks_obj.right_locks > 1){\n  $(\"#right_lock_2\").show();\n}\nif(locks_obj.right_locks == 3){\n  $(\"#right_lock_3\").show();\n}\n\nfunction lock_click(this_id){\n  $(\".lock_img\").unbind();\n  setTimeout(function(){\n    bind_lock();\n  },{{lock_time}});\n  \n  \n  var left_right_lock = this_id.split(\"_\")[0];\n  \n  var opposite_lock = left_right_lock == \"left\" ? \"right\" : \"left\";\n  \n  $(\".\" + opposite_lock + \"_lock\").hide();\n  \n  //block_left_lock_1\n  var locks_loop = parseFloat(locks_obj[opposite_lock + \"_locks\"]) + 1;\n  for(var i = 1; i < locks_loop; i++){\n    \n    $(\"#block_\" + opposite_lock + \"_lock_\" + i).show();\n    \n  }\n  \n  \n  locks_obj.locks_clicked++;\n  $(\"#lock_\" + locks_obj.locks_clicked + \"_rt\").val(Trial.elapsed());\n  $(\"#\" + this_id).fadeOut({{lock_time}});\n  $(\".lock_img\").unbind();\n  \n  console.dir('$(\".\" + left_right_lock + \"_lock:visible\").length');\n  console.dir($(\".\" + left_right_lock + \"_lock:visible\").length);\n  \n  if($(\".\" + left_right_lock + \"_lock:visible\").length == 1){\n    $(\"#left_right_chosen\").val(left_right_lock);\n    $(\"#type_chosen\").val(locks_obj[left_right_lock + \"_type\"]);\n    $(\".block_lock\").hide();\n    setTimeout(function(){\n      $(\"#\" + left_right_lock + \"_img\").css(\"z-index\",3);\n      $(\"#\" + left_right_lock + \"_img\").animate({\n        left :  \"0px\",\n        top  :  \"0px\",\n        width:  \"100%\",\n        height: \"100%\"\n      },function(){\n        $(\"#\" + left_right_lock + \"_video\").show();\n        $(\"#\" + left_right_lock + \"_video\")[0].play();\n        $(\"#\" + left_right_lock  +\"_video\").on('ended',function(){\n          $(\"#vid_rt\").val(Trial.elapsed());\n          Trial.submit();\n        });    \n      });\n    },\"{{lock_time}}\");    \n  }\n}\n\nfunction bind_lock(){\n  $(\".lock_img\").on(\"click\",function(){\n    this_id = $(this)[0].id;\n    lock_click(this_id);\n  });\n}\nbind_lock()\n</script>",
     "cam_3": "\r\n<style>\r\n#everything_div{\r\n  margin:auto;\r\n  width:725px;\r\n  /* padding:50px; */\r\n  height:400px;\r\n  text-align: center;\r\n  position:absolute;\r\n  top:0;\r\n\tbottom: 0;\r\n\tleft: 0;\r\n\tright: 0;\r\n}\r\n\r\n#left_img{\r\n  position:absolute;\r\n  left:0px;\r\n  top:0px;\r\n}\r\n#left_instruction{\r\n  position:absolute;\r\n  left:0px;\r\n  top:350px;\r\n  font-size:30px;\r\n}\r\n#right_img{\r\n  position:absolute;\r\n  left:400px;\r\n  top:0px;\r\n}\r\n#right_instruction{\r\n  position:absolute;\r\n  left:400px;\r\n  top:350px;\r\n  font-size:30px;\r\n}\r\n\r\n#block_left_lock_1{\r\n  left:0px;\r\n}\r\n#block_left_lock_2{\r\n  left:125px;\r\n}\r\n#block_left_lock_3{\r\n  left:250px;\r\n}\r\n#block_right_lock_1{\r\n  left:400px;\r\n}\r\n#block_right_lock_2{\r\n  left:525px;\r\n}\r\n#block_right_lock_3{\r\n  left:650px;\r\n}\r\n#left_lock_1{\r\n  left:0px;\r\n}\r\n#left_lock_2{\r\n  left:125px;\r\n}\r\n#left_lock_3{\r\n  left:250px;\r\n}\r\n#right_lock_1{\r\n  left:400px;\r\n}\r\n#right_lock_2{\r\n  left:525px;\r\n}\r\n#right_lock_3{\r\n  left:650px;\r\n}\r\n.block_lock{\r\n  position:absolute;\r\n  width:50px;\r\n  height:50px;\r\n  z-index:2;\r\n  display:none;\r\n  top:0px;\r\n}\r\n.lock_img{\r\n  position:absolute;\r\n  width:50px;\r\n  height:50px;\r\n  z-index:2;\r\n  display:none;\r\n  top:0px;\r\n}\r\n.stim_style{\r\n  height:325px;\r\n  width:325px;\r\n  z-index:1;\r\n}\r\n.video_stim{\r\n  margin:auto;\r\n  display:none;\r\n  height:400px;\r\n  width:600px;\r\n  text-align: center;\r\n  position:absolute;\r\n  top:0;\r\n\tbottom: 0;\r\n\tleft: 0;\r\n\tright: 0;\r\n\tz-index:5;\r\n}\r\n</style>\r\n<div id=\"everything_div\">\r\n  <img id='left_img' src=\"{{left_back}}\" class=\"stim_style\" />\r\n  <div id=\"left_instruction\">{{left_instruction}}</div>\r\n  <video id=\"left_video\" class=\"stim_style video_stim\" muted>\r\n    <source src=\"{{left_video}}\" type=\"video/mp4\">\r\n    Your browser does not support the video tag.\r\n  </video>\r\n  <img id='right_img' src=\"{{right_back}}\" class=\"stim_style\" />\r\n  <div id=\"right_instruction\">{{right_instruction}}</div>\r\n  <video id=\"right_video\"  class=\"stim_style video_stim\" muted>\r\n    <source src=\"{{right_video}}\" type=\"video/mp4\">\r\n  Your browser does not support the video tag.\r\n  </video>\r\n  <img id=\"left_lock_1\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\r\n  <img id=\"left_lock_2\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\r\n  <img id=\"left_lock_3\"        class=\"lock_img left_lock\"  src=\"{{lock_img}}\"/>\r\n  <img id=\"right_lock_1\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\r\n  <img id=\"right_lock_2\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\r\n  <img id=\"right_lock_3\"       class=\"lock_img right_lock\" src=\"{{lock_img}}\"/>\r\n  <img id=\"block_left_lock_1\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n  <img id=\"block_left_lock_2\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n  <img id=\"block_left_lock_3\"  class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n  <img id=\"block_right_lock_1\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n  <img id=\"block_right_lock_2\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n  <img id=\"block_right_lock_3\" class=\"block_lock\"          src=\"{{block_lock_img}}\"/>\r\n</div>\r\n<input type=\"hidden\" id=\"left_right_chosen\" name=\"left_right_chosen\">\r\n<input type=\"hidden\" id=\"type_chosen\"       name=\"type_chosen\">\r\n<input type=\"hidden\" id=\"lock_1_rt\"         name=\"lock_1_rt\">\r\n<input type=\"hidden\" id=\"lock_2_rt\"         name=\"lock_2_rt\">\r\n<input type=\"hidden\" id=\"lock_3_rt\"         name=\"lock_3_rt\">\r\n<input type=\"hidden\" id=\"vid_rt\"            name=\"vid_rt\">\r\n\r\n<script>\r\nlocks_obj = {\r\n  left_locks:    \"{{left_locks}}\",\r\n  right_locks:   \"{{right_locks}}\",\r\n  left_type:     \"{{left_type}}\",\r\n  right_type:    \"{{right_type}}\",\r\n  locks_clicked: 0\r\n}\r\n$(\"#left_lock_1\").show();                                                       // always show at least 1 left lock\r\n$(\"#right_lock_1\").show();                                                      // always show at least 1 right lock\r\n\r\nif(locks_obj.left_locks > 1){                                                   // show a second left lock if there are at least 2 locks on the left\r\n  $(\"#left_lock_2\").show();\r\n}\r\nif(locks_obj.right_locks > 1){                                                  // show a second right lock if there are at least 2 locks on the right\r\n  $(\"#right_lock_2\").show();\r\n}\r\n\r\nif(locks_obj.left_locks == 3){                                                  // show the third left lock if there are 3 left locks\r\n  $(\"#left_lock_3\").show();\r\n}\r\nif(locks_obj.right_locks == 3){                                                 // show the third right lock if there are 3 right locks\r\n  $(\"#right_lock_3\").show();\r\n}\r\n\r\n/*\r\n* make the locks responsive when the user presses a keyboard response\r\n*/\r\n\r\n\r\n\r\n\r\n\r\nkeys_active = true;\r\n$(window).bind('keydown', function(event) {\r\n\tswitch (String.fromCharCode(event.which).toLowerCase()) {\r\n\t\tcase 'z':\r\n\t\t  \r\n\t\t  if(keys_active == true & $(\"#block_left_lock_1:visible\").length !== 1){\r\n        keys_active = false;\r\n\t\t  \r\n\t      event.preventDefault();\r\n\t\t\t  //check if the user has already clicked on a right lock?\r\n\t\t\t  if($(\".right_lock:visible\").length == locks_obj.right_locks){\r\n\t\t\t  \r\n  \t\t    for(var i = 1; i <= locks_obj[\"right_locks\"]; i++){                                \r\n            $(\"#block_right_lock_\" + i).show();\r\n          }    \r\n  \t\t\t  \r\n\t\t\t  \r\n\t\t\t  \r\n  \t\t\t  locks_obj.locks_clicked++;\r\n  \t\t\t  $(\"#lock_\" + locks_obj.locks_clicked + \"_rt\").val(Trial.elapsed());\r\n  \t\t\t  \r\n  \t\t\t  $(\"#left_lock_\" + (locks_obj.locks_clicked)).fadeOut(1000, function(){\r\n  \t\t\t    if($(\".left_lock:visible\").length == 0){                          // if there are now no visible locks, it's time to show the video:\r\n  \t\t\t      $(\"#left_right_chosen\").val(\"left\");                            // storing which side the user chose\r\n              $(\"#type_chosen\").val(locks_obj[\"left_type\"]);                  // storing what type of stimuli the user chose (e.g. social vs. nonsocial)\r\n              $(\".block_lock\").hide();                                        // hide all the block locks\r\n              $(\"#left_img\").css(\"z-index\",3);                                // give the background pattern for the chosen side priority\r\n              \r\n  \t\t\t      $(\"#left_img\").animate({                                        // enlarge the backgrounf pattern to cover the whole of the div\r\n                left :  \"0px\",\r\n                top  :  \"0px\",\r\n                width:  \"100%\",\r\n                height: \"100%\"\r\n              },function(){                                                   // once the animation of the background pattern is complete:\r\n  \t\t\t\t      $(\"#left_video\").show();                                      // show the chosen video\r\n                $(\"#left_video\")[0].play();                                   // play the chosen video\r\n                $(\"#left_video\").on('ended',function(){                       // when the video finishes:\r\n                  $(\"#vid_rt\").val(Trial.elapsed());                          // store the time it took to get to this point\r\n                  Trial.submit();                                             // move on to the next trial\r\n                });\r\n              });\r\n  \t\t\t    } else {\r\n    \t\t\t    keys_active = true;\r\n    \t\t\t  }\r\n\t\t\t    });\r\n\t\t\t  } \r\n\t\t\t}\r\n\t\tbreak;\r\n\t\tcase 'm':\r\n\t\t  if(keys_active == true & $(\"#block_right_lock_1:visible\").length !== 1){\r\n        keys_active = false;\r\n  \t\t  \r\n  \t\t  event.preventDefault();\r\n  \t\t\t//check if the user has already clicked on a right lock?\r\n  \t\t\tif($(\".left_lock:visible\").length == locks_obj.left_locks){\r\n  \t\t    for(var i = 1; i <= locks_obj[\"left_locks\"]; i++){                                \r\n            $(\"#block_left_lock_\" + i).show();\r\n          }    \r\n  \t\t\t  \r\n  \t\t\t  locks_obj.locks_clicked++;\r\n  \t\t\t  $(\"#lock_\" + locks_obj.locks_clicked + \"_rt\").val(Trial.elapsed());\r\n  \t\t\t  \r\n  \t\t\t  \r\n  \t\t\t  $(\"#right_lock_\" + (locks_obj.locks_clicked)).fadeOut(1000, function(){\r\n  \t\t\t    if($(\".right_lock:visible\").length == 0){                          // if there are now no visible locks, it's time to show the video:\r\n  \t\t\t      $(\"#left_right_chosen\").val(\"right\");                            // storing which side the user chose\r\n              $(\"#type_chosen\").val(locks_obj[\"right_type\"]);                  // storing what type of stimuli the user chose (e.g. social vs. nonsocial)\r\n              $(\".block_lock\").hide();                                        // hide all the block locks\r\n              $(\"#right_img\").css(\"z-index\",3);                                // give the background pattern for the chosen side priority\r\n              \r\n  \t\t\t      $(\"#right_img\").animate({                                        // enlarge the backgrounf pattern to cover the whole of the div\r\n                left :  \"0px\",\r\n                top  :  \"0px\",\r\n                width:  \"100%\",\r\n                height: \"100%\"\r\n              },function(){                                                   // once the animation of the background pattern is complete:\r\n  \t\t\t\t      $(\"#right_video\").show();                                      // show the chosen video\r\n                $(\"#right_video\")[0].play();                                   // play the chosen video\r\n                $(\"#right_video\").on('ended',function(){                       // when the video finishes:\r\n                  $(\"#vid_rt\").val(Trial.elapsed());                          // store the time it took to get to this point\r\n                  Trial.submit();                                             // move on to the next trial\r\n                });\r\n              });\r\n  \t\t\t    } else {\r\n    \t\t\t    keys_active = true;\r\n    \t\t\t  }\r\n  \t\t\t  });\r\n  \t\t\t}\r\n\t\t  }\r\n\t  break;\r\n\t}\r\n});\r\n\r\n</script>"
   },
-  "location": "dubey-haffey-2/autumn-2020",
+  "location": "dubey-haffey-2/msc-2022/cam_3_7_new",
   "boosts": {},
-  "conditions": [
-    {
-      "name": "condition_1",
-      "notes": "social task",
-      "stimuli": "stimuli_1.csv",
-      "procedure": "procedure_1.csv",
-      "fullscreen": "on",
-      "welcome": "",
-      "participant_id": "on",
-      "end_message": "",
-      "start_message": "",
-      "buffer": "5",
-      "download_at_end": "on",
-      "forward_at_end": "",
-      "": ""
-    },
-    {
-      "name": "condition_2",
-      "notes": "social task",
-      "stimuli": "stimuli_1.csv",
-      "procedure": "procedure_2.csv",
-      "fullscreen": "on",
-      "welcome": "",
-      "participant_id": "on",
-      "end_message": "",
-      "start_message": "",
-      "buffer": "5",
-      "download_at_end": "on",
-      "forward_at_end": "",
-      "": ""
-    }
-  ],
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
   "mods": {},
-  "procs_csv": {
-    "procedure_1.csv": "Item,Trial Type,Max Time,Text,Shuffle 1,survey,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,instruct,,\"<video width=\"\"600\"\" height=\"\"400\"\" controls>\r\n  <source src=\"\"../User/Stimuli/cam/cam_social_1.mp4\"\" type=\"\"video/mp4\"\">\r\n  Your browser does not support the video tag.\r\n</video>\",off,,,,,,,,,,,,,\r\n0,survey,,,off,cam_info,,,,,,,,,,,,\r\n0,survey,,,off,cam_consent,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,social,nonsocial,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_3,,,trial,,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,blue,red,nonsocial,social,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,autism_quotient,,,,,,,,,,,,\r\n0,survey,,,off,sas_ant.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>You've completed this part of the study! </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>\",off,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,",
-    "procedure_2.csv": "Item,Trial Type,Max Time,Text,Shuffle 1,survey,left_back,right_back,lock_img,lock_time,block_lock_img,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,instruct,,\"<video width=\"\"600\"\" height=\"\"400\"\" controls>\r\n  <source src=\"\"../User/Stimuli/cam/cam_social_2.mp4\"\" type=\"\"video/mp4\"\">\r\n  Your browser does not support the video tag.\r\n</video>\",off,,,,,,,,,,,,,\r\n0,survey,,,off,cam_info,,,,,,,,,,,,\r\n0,survey,,,off,cam_consent,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>One box has videos of people while other has videos of household objects</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b><br>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_3,,,trial,,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,blue,red,social,nonsocial,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,nonsocial,social,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,autism_quotient,,,,,,,,,,,,\r\n0,survey,,,off,sas_ant.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>You've completed this part of the study! </span></b><br><br> \n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\n<span style=\"\"font-size:25px\"\"><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>\",off,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,"
-  },
-  "stims_csv": {
-    "stimuli_1.csv": "left_video,right_video,left_locks,right_locks,lock_diff_on_left,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,1,1,0,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,1,1,0,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,1,2,-1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,1,2,-1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,1,2,-1,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,1,3,-2,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,1,3,-2,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,1,3,-2,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,1,3,-2,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,1,3,-2,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,1,3,-2,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,2,1,1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,2,1,1,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,2,1,1,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,2,2,0,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,2,2,0,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,2,3,-1,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,2,3,-1,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,2,3,-1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,3,1,2,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,3,1,2,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,3,1,2,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,3,1,2,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,3,1,2,\r\n../User/Stimuli/cam/s1.mp4,../User/Stimuli/cam/o1.mp4,3,1,2,\r\n../User/Stimuli/cam/s2.mp4,../User/Stimuli/cam/o2.mp4,3,2,1,\r\n../User/Stimuli/cam/s3.mp4,../User/Stimuli/cam/o3.mp4,3,2,1,\r\n../User/Stimuli/cam/s4.mp4,../User/Stimuli/cam/o4.mp4,3,2,1,\r\n../User/Stimuli/cam/s5.mp4,../User/Stimuli/cam/o5.mp4,3,3,0,\r\n../User/Stimuli/cam/s6.mp4,../User/Stimuli/cam/o6.mp4,3,3,0,\r\n../User/Stimuli/cam/s7.mp4,../User/Stimuli/cam/o7.mp4,1,1,0,\r\n../User/Stimuli/cam/s8.mp4,../User/Stimuli/cam/o8.mp4,1,1,0,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,1,2,-1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,1,2,-1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,1,2,-1,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,1,3,-2,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,1,3,-2,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,1,3,-2,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,1,3,-2,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,1,3,-2,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,1,3,-2,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,2,1,1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,2,1,1,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,2,1,1,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,2,2,0,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,2,2,0,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,2,3,-1,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,2,3,-1,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,2,3,-1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,3,1,2,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,3,1,2,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,3,1,2,\r\n../User/Stimuli/cam/o5.mp4,../User/Stimuli/cam/s5.mp4,3,1,2,\r\n../User/Stimuli/cam/o6.mp4,../User/Stimuli/cam/s6.mp4,3,1,2,\r\n../User/Stimuli/cam/o7.mp4,../User/Stimuli/cam/s7.mp4,3,1,2,\r\n../User/Stimuli/cam/o8.mp4,../User/Stimuli/cam/s8.mp4,3,2,1,\r\n../User/Stimuli/cam/o1.mp4,../User/Stimuli/cam/s1.mp4,3,2,1,\r\n../User/Stimuli/cam/o2.mp4,../User/Stimuli/cam/s2.mp4,3,2,1,\r\n../User/Stimuli/cam/o3.mp4,../User/Stimuli/cam/s3.mp4,3,3,0,\r\n../User/Stimuli/cam/o4.mp4,../User/Stimuli/cam/s4.mp4,3,3,0,\r\n,,,,,"
-  },
-  "conditions_csv": "Name,Notes,Stimuli,Procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,\r\n,,,,,,,,,,,,",
   "storage_scripts": {
     "ocollector.org": "https://ocollector.org/StoreData10_aodirnkcu73hsjd8.php"
-  }
+  },
+  "phasetypes": {
+    "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
+    "cam_3": "[[[LOCATION]]]../Default/DefaultPhaseTypes/cam_3.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
 }

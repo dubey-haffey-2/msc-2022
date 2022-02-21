@@ -1,4 +1,4 @@
-item_name,text,Type,Answers,Values,Optional,side_by_side,
+item_name,text,type,answers,values,optional,side_by_side,
 Instructions1,"<h1>PARTICIPANT INFORMATION SHEET </h1>
 
 <h2>Title of Project:  Nature of co-occurring worry in autism.</h2>
@@ -72,6 +72,6 @@ School of Applied Social Sciences,<br>
 De Montfort University,<br>
 Leicester, UK<br>
 Phone: 0116 366 4401<br>
-Email: indu.dubey@dmu.ac.uk",Instruct,,,,,
+Email: indu.dubey@dmu.ac.uk",instruct,,,,,
 Info_Accept,I have read the information sheet dated 09/11/2020 and I am happy to continue,likert,Agree,1,No,yes,
 ,,,,,,,
