@@ -33587,7 +33587,7 @@
         "phasetypes": {
           "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
           "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
-          "cam_3": "[[[LOCATION]]]../Default/DefaultPhaseTypes/cam_3.html"
+          "cam_3": "[[[LOCATION]]]../User/PhaseTypes/cam_3.html"
         },
         "procs_csv": {},
         "stims_csv": {}
