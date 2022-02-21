@@ -3571,11 +3571,11 @@
   "boosts": {},
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
   "mods": {},
-  "storage_scripts": { },
+  "storage_scripts": {},
   "phasetypes": {
     "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
     "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
-    "cam_3": "[[[LOCATION]]]../Default/DefaultPhaseTypes/cam_3.html"
+    "cam_3": "[[[LOCATION]]]../User/PhaseTypes/cam_3.html"
   },
   "procs_csv": {},
   "stims_csv": {}

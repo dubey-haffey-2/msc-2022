@@ -4586,7 +4586,9 @@
   "boosts": {},
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,sensory,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,sensory,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
   "mods": {},
-  "storage_scripts": { },
+  "storage_scripts": {
+    "ocollector.org": "https://ocollector.org/StoreData10_aodirnkcu73hsjd8.php"
+  },
   "phasetypes": {
     "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
     "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
