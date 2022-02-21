@@ -3571,9 +3571,7 @@
   "boosts": {},
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
   "mods": {},
-  "storage_scripts": {
-    "ocollector.org": "https://ocollector.org/StoreData10_aodirnkcu73hsjd8.php"
-  },
+  "storage_scripts": { },
   "phasetypes": {
     "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
     "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
